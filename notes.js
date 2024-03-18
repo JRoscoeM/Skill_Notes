@@ -121,3 +121,7 @@ let theArray = [1, 2, 3, 4];
 for (const element of theArray) {
     element++;
 }
+
+//Arrays in JS are like LinkedLists in that you can add to the end using arr.push()
+
+//convert a string which represents a number into a number using the Number() function
