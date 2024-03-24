@@ -125,3 +125,4 @@ for (const element of theArray) {
 //Arrays in JS are like LinkedLists in that you can add to the end using arr.push()
 
 //convert a string which represents a number into a number using the Number() function
+let arr = [0];
